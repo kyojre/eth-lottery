@@ -1,5 +1,6 @@
 # eth-lottery
 https://blog.csdn.net/kyojre/article/details/86766184
+
 安装
 ```shell
 npm install
